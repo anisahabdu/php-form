@@ -6,7 +6,7 @@ if(isset($_GET["FirstName"])){//show feedback
   
 }else{// show form
   echo '
-  <form action=''>
+  <form action="">
   First Name: <input type="text" name="FirstName" /><br />
   <input type="submit" />
   
